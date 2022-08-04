@@ -1,0 +1,6 @@
+print ("Olá mundo")
+print ("Aqui estamos em" , '6' " pessoas, e isso é muito legal")
+nome=input('Qual seu nome?')
+idade=input('Qual sua idade?')
+peso=input('Qual seu peso?')
+print(nome,idade, peso)
